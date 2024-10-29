@@ -1,0 +1,1 @@
+This tool lets users follow international news more easily, especially from regions where English news coverage might be limited. By combining translation, relevant article retrieval, and summarization, the system provides an efficient, accessible way to stay informed about the world, all tailored to each user’s interests.
